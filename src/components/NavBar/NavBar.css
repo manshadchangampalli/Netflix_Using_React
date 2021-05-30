@@ -7,11 +7,12 @@
     display: flex;
     justify-content: space-between;
     background-color: #111;
+    z-index: 2;
 }
 .logo{
     position: fixed;
     left: 20px;
-    width: 80px;
+    width: 100px;
 }
 .avatar{
     position: fixed;
